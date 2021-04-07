@@ -26,3 +26,7 @@ The photo of  circuit including breadboard and uLCD
 
 ![168816633_740373683328292_434408138127178216_n](https://user-images.githubusercontent.com/79573609/113851725-621c2180-97ce-11eb-818c-db2314905176.jpg)
 ![169647408_531504794504850_8974871946075318271_n](https://user-images.githubusercontent.com/79573609/113851729-62b4b800-97ce-11eb-99ba-12477bde48fb.jpg)
+
+FFT image:
+
+![FFT](https://user-images.githubusercontent.com/79573609/113853916-d3f56a80-97d0-11eb-97c0-094180214014.JPG)
