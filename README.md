@@ -1,6 +1,3 @@
-![1](https://user-images.githubusercontent.com/79573609/113851201-d7d3bd80-97cd-11eb-9380-ff4095cddaeb.JPG)
-![2](https://user-images.githubusercontent.com/79573609/113851209-d86c5400-97cd-11eb-93d3-5873ef0506df.JPG)
-Running & compile
 
 Embedding in B_L4S5I_IOT01A
 
