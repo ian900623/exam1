@@ -63,7 +63,7 @@ void ST()
     flat = 24000 - 2 * range;
 }
 
-/*void sample(void)
+void sample(void)
 {
     for(int i = 0; i < 500; i++)
     {
@@ -74,7 +74,7 @@ void ST()
     {
         printf("%f\r\n", ADCdata[i]);
     }
-} */
+} 
 
 int main()
 {
@@ -90,7 +90,7 @@ int main()
     pin_sel.rise(queue.event(&ST));
     
     // start thread for sample
-    // thread.start(sample);
+    thread.start(sample);
     while(1)
     {
         for(int i = 0; i < range; i++)
@@ -109,4 +109,5 @@ int main()
             wait_us(10);
         }
     }
+    thread.join();
 }
