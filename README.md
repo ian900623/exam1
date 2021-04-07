@@ -10,3 +10,6 @@ Run python FFT.py to analysis the wave
 sudo python3 FFT.py
 
 press three buttom to select frequency.
+
+1.JPG : choose0.5
+2.JPG : choose1.0
